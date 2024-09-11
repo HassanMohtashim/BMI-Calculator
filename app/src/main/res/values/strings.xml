@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="male_btn">Male</string>
+    <string name="female_btn">Female</string>
+    <string name="default_height">178</string>
+    <string name="default_height_unit">cm</string>
+    <string name="default_weight">75</string>
+    <string name="default_age">22</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="age">Age (years)</string>
+    <string name="calculate">Calculate BMI</string>
+    <string name="more">moreAppliances</string>
+    <string name="splash_icon">Splash Icon</string>
+    <string name="splash_text">Stay Healthy Live Long</string>
+    <string name="developer_text">Mohtashim Develops</string>
+    <string name="results">Your Details :</string>
+    <string name="gender">Gender :</string>
+    <string name="ageTxt">Age :</string>
+    <string name="heightTxt">Height :</string>
+    <string name="weightTxt">Weight :</string>
+    <string name="calculated_bmi">Calculated BMI :</string>
+    <string name="conducted_result">Result :</string>
+    <string name="convert">CONVERT</string>
+    <string name="kg">kg</string>
+    <string name="weight_pounds">Weight (Pounds)</string>
+    <string name="enter_your_weight">Enter Your weight :</string>
+    <string name="convert_your_height_into_cm">Convert your height into cm :</string>
+    <string name="feet">feet</string>
+    <string name="enter_your_height">Enter Your height :</string>
+    <string name="inches">inches</string>
+    <string name="cm">cm</string>
+    <string name="convertx">CONVERT</string>
+    <string name="set_data_to_calculate_bmi">Set data to calculate BMI</string>
+</resources>
