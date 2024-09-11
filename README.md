@@ -29,7 +29,7 @@ This Android application calculates the Body Mass Index (BMI) based on user inpu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bmi-calculator.git
+   [https://github.com/HassanMohtashim/BMI-Calculator/tree/master]
 2. Contact the developer:
    ```bash
    hassan.mohtashim12@gmail.com
